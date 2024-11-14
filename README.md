@@ -54,3 +54,5 @@ Healthcare Administrators: For resource planning and staffing based on patient d
 Quality Improvement Teams: To analyze patient satisfaction trends and identify areas for improving the ER experience.
 Source & Inspiration
 This dashboard was inspired by Gandes Goldestan's Hospital Emergency Room Dashboard, specifically the #RWFD (Real-World Fake Data) initiative. It provides a realistic view of ER operations and is tailored to reflect various critical healthcare metrics.
+
+![ER Visits Dashboard ](https://github.com/user-attachments/assets/7be2d30e-6308-4e90-a876-239620484202)
